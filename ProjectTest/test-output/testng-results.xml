@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-02-04T14:55:34 ICT" name="Default suite" finished-at="2025-02-04T14:55:44 ICT" duration-ms="9523">
+    <groups>
+    </groups>
+    <test started-at="2025-02-04T14:55:34 ICT" name="Default test" finished-at="2025-02-04T14:55:44 ICT" duration-ms="9523">
+      <class name="automation.testsuite.PracticeLocateElement2">
+        <test-method is-config="true" signature="openBrowserTest()[pri:0, instance:automation.testsuite.PracticeLocateElement2@169e6180]" started-at="2025-02-04T14:55:34 ICT" name="openBrowserTest" finished-at="2025-02-04T14:55:40 ICT" duration-ms="5114" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowserTest -->
+        <test-method signature="locateById()[pri:0, instance:automation.testsuite.PracticeLocateElement2@169e6180]" started-at="2025-02-04T14:55:40 ICT" name="locateById" finished-at="2025-02-04T14:55:40 ICT" duration-ms="64" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- locateById -->
+        <test-method is-config="true" signature="openBrowserTest()[pri:0, instance:automation.testsuite.PracticeLocateElement2@169e6180]" started-at="2025-02-04T14:55:40 ICT" name="openBrowserTest" finished-at="2025-02-04T14:55:44 ICT" duration-ms="4274" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowserTest -->
+        <test-method signature="locateByName()[pri:0, instance:automation.testsuite.PracticeLocateElement2@169e6180]" started-at="2025-02-04T14:55:44 ICT" name="locateByName" finished-at="2025-02-04T14:55:44 ICT" duration-ms="43" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- locateByName -->
+      </class> <!-- automation.testsuite.PracticeLocateElement2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
