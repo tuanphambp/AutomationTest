@@ -6,6 +6,7 @@
       <class name="automation.testsuite.LoginTest">
         <methods>
           <include name="openBrowserTest"/>
+          <include name="locateByLinkText"/>
           <include name="locateByTagName"/>
           <include name="locateByName"/>
         </methods>
